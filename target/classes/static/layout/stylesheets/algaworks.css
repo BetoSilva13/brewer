@@ -629,6 +629,7 @@ body {
   margin: 0;
   height: 80px;
   color: #333333;
+  font-weight: bold;
 }
 .aw-page-header-controls {
   display: flex;
